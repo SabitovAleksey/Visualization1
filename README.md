@@ -1,2 +1,3 @@
-Visualization on Python <br>
-Tasks in the .ipynb file
+Visualization on Python (Visualization1.ipynb) <br> 
+Creation of Distributions (Distribution.ipynb) <br>
+Tasks in the .ipynb files
